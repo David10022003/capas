@@ -1,7 +1,7 @@
 {
-"type": "FeatureCollection";
-"name": "Estaciones_Troncales_de_TRANSMILENIO";
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } };
+"type": "FeatureCollection",
+"name": "Estaciones_Troncales_de_TRANSMILENIO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "objectid": 1, "numero_estacion": "07103", "nombre_estacion": "AV. Chile", "coordenada_x_estacion": 1000326.9067000001, "coordenada_y_estacion": 1007756.2952000001, "ubicacion_estacion": "Kr 30 Cl 72", "troncal_estacion": "NQS", "numero_vagones_estacion": 6, "numero_accesos_estacion": 2, "biciestacion_estacion": "0", "capacidad_biciestacion_estacion": 0, "tipo_estacion": 4, "biciparqueadero_estacion": 0, "latitud_estacion": 4.66634138, "longitud_estacion": -74.07456156000001, "globalid": "{F055422B-BD16-4DCE-BEEF-2AD5D8D0D555}", "created_user": null, "created_date": null, "last_edited_user": "TECNICA", "last_edited_date": "2023-08-15T22:43:40Z", "codigo_nodo_estacion": 7103, "componente_wifi": null, "componente_aplificacion": null, "log_replica": null, "id_trazado_troncal": "TZ008" }, "geometry": { "type": "Point", "coordinates": [ -74.074561562740413, 4.666341384538626 ] } },
 { "type": "Feature", "properties": { "objectid": 2, "numero_estacion": "06103", "nombre_estacion": "CAN", "coordenada_x_estacion": 997610.0435, "coordenada_y_estacion": 1005604.3582, "ubicacion_estacion": "Carrera 60", "troncal_estacion": "Calle 26", "numero_vagones_estacion": 4, "numero_accesos_estacion": 1, "biciestacion_estacion": "0", "capacidad_biciestacion_estacion": 0, "tipo_estacion": 4, "biciparqueadero_estacion": 0, "latitud_estacion": 4.64688089, "longitud_estacion": -74.09904759, "globalid": "{AD7C6926-90EC-428C-A4D8-46FBB826A717}", "created_user": null, "created_date": null, "last_edited_user": "TECNICA", "last_edited_date": "2023-08-15T22:43:40Z", "codigo_nodo_estacion": 6103, "componente_wifi": null, "componente_aplificacion": null, "log_replica": null, "id_trazado_troncal": "TZ016" }, "geometry": { "type": "Point", "coordinates": [ -74.09904759157655, 4.646880888193401 ] } },
