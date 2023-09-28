@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Estaciones_Troncales_de_TRANSMILENIO</name>
+    <NetworkLink>
+      <name>Copy of Untitled map</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=17vQzogTGDxzSPwUxr9ZPsazogOTBXug&lid=gH_gghy3WXw]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
