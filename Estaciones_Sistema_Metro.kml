@@ -1,0 +1,2019 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Estaciones_Sistema_Metro" id="Estaciones_Sistema_Metro">
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="linea" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="codigo_mpio" type="string"></SimpleField>
+	<SimpleField name="municipio" type="string"></SimpleField>
+	<SimpleField name="sistema" type="string"></SimpleField>
+	<SimpleField name="tipo" type="string"></SimpleField>
+</Schema>
+<Folder><name>Estaciones_Sistema_Metro</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Acevedo (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5585557071937,6.29994259008367,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Tricentenario (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5647167280097,6.29031534118245,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Caribe (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5694048558144,6.27832651707121,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Universidad (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5658279961184,6.26943275514948,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Hospital (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5633348028957,6.26391952494791,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Prado (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5661721550768,6.25685016727448,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Parque Berrío (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5682359311358,6.25050160347719,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación San Antonio (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5697034073059,6.24719454351342,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="linea">B</SimpleData>
+		<SimpleData name="nombre">Estación Cisneros (Línea B)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5751519778633,6.24905357172946,45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Alpujarra (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.571425288161,6.24291711055267,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Exposiciones (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5731636531016,6.23841985323318,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Industriales (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.575618520601,6.23009059069136,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Poblado (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5780956618279,6.2121783403611,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Aguacatala (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5818095442491,6.1939196306817,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="linea">B</SimpleData>
+		<SimpleData name="nombre">Estación Suramericana (Línea B)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.582941711663,6.25298404616691,45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="linea">B</SimpleData>
+		<SimpleData name="nombre">Estación Estadio (Línea B)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5882563739542,6.25333562923324,45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="linea">B</SimpleData>
+		<SimpleData name="nombre">Estación Floresta (Línea B)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5977436999604,6.25870904240013,45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="linea">B</SimpleData>
+		<SimpleData name="nombre">Estación Santa Lucia (Línea B)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6037462489771,6.2580882099152,45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="linea">B</SimpleData>
+		<SimpleData name="nombre">Estación San Javier (Línea B)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6136642039743,6.25678093038968,45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Madera (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05088</SimpleData>
+		<SimpleData name="municipio">Bello</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5553244904729,6.31587687478175,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Bello (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05088</SimpleData>
+		<SimpleData name="municipio">Bello</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5536350819187,6.33009769975959,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Niquía (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05088</SimpleData>
+		<SimpleData name="municipio">Bello</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5442873990234,6.33782749669792,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Ayurá (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05266</SimpleData>
+		<SimpleData name="municipio">Envigado</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5860638621285,6.18616161338868,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Envigado (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05360</SimpleData>
+		<SimpleData name="municipio">Itagüí</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5970654701243,6.17468614727454,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Itaguí (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05360</SimpleData>
+		<SimpleData name="municipio">Itagüí</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6068632485028,6.16289398638237,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación Sabaneta (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05631</SimpleData>
+		<SimpleData name="municipio">Sabaneta</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6162423823145,6.15768901932501,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">27</SimpleData>
+		<SimpleData name="linea">A</SimpleData>
+		<SimpleData name="nombre">Estación La Estrella (Línea A)</SimpleData>
+		<SimpleData name="codigo_mpio">05631</SimpleData>
+		<SimpleData name="municipio">Sabaneta</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6263632191237,6.15278426361469,40</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">28</SimpleData>
+		<SimpleData name="linea">B</SimpleData>
+		<SimpleData name="nombre">Estación San Antonio (Línea B)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metro</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5697279007704,6.2472023410216,45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">29</SimpleData>
+		<SimpleData name="linea">L</SimpleData>
+		<SimpleData name="nombre">Estación Arví (Línea L)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5029717312349,6.28154575110938,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">30</SimpleData>
+		<SimpleData name="linea">K</SimpleData>
+		<SimpleData name="nombre">Estación Santo Domingo (Línea K)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5417272822104,6.29315937781415,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">31</SimpleData>
+		<SimpleData name="linea">K</SimpleData>
+		<SimpleData name="nombre">Estación Popular (Línea K)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5481413647301,6.29512259612395,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">32</SimpleData>
+		<SimpleData name="linea">K</SimpleData>
+		<SimpleData name="nombre">Estación Andalucía (Línea K)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5518969352687,6.29627205460803,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">33</SimpleData>
+		<SimpleData name="linea">J</SimpleData>
+		<SimpleData name="nombre">Estación Juan XXIII (Línea J)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6137025710201,6.26567653049018,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">34</SimpleData>
+		<SimpleData name="linea">J</SimpleData>
+		<SimpleData name="nombre">Estación Vallejuelos (Línea J)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.614017156541,6.27536076855347,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">35</SimpleData>
+		<SimpleData name="linea">J</SimpleData>
+		<SimpleData name="nombre">Estación La Aurora (Línea J)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6142033755028,6.28109317517167,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">36</SimpleData>
+		<SimpleData name="linea">M</SimpleData>
+		<SimpleData name="nombre">Estación 13 de Noviembre (Línea M)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5413945040083,6.24761517926628,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">37</SimpleData>
+		<SimpleData name="linea">H</SimpleData>
+		<SimpleData name="nombre">Estación Villa Sierra (Línea H)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.528679476389,6.23487454363907,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">38</SimpleData>
+		<SimpleData name="linea">M</SimpleData>
+		<SimpleData name="nombre">Estación El Pinal (Línea M)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5444759545032,6.24526308947616,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">39</SimpleData>
+		<SimpleData name="linea">H</SimpleData>
+		<SimpleData name="nombre">Estación Las Torres (Línea H)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5363721166796,6.23664541409579,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">40</SimpleData>
+		<SimpleData name="linea">L</SimpleData>
+		<SimpleData name="nombre">Estación Santo Domingo (Línea L)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5418476304073,6.29272254939581,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">41</SimpleData>
+		<SimpleData name="linea">K</SimpleData>
+		<SimpleData name="nombre">Estación Acevedo (Línea K)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5583080210086,6.30027217547547,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">42</SimpleData>
+		<SimpleData name="linea">M</SimpleData>
+		<SimpleData name="nombre">Estación Miraflores (Línea M)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5491113458109,6.24172479061194,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">43</SimpleData>
+		<SimpleData name="linea">H</SimpleData>
+		<SimpleData name="nombre">Estación Oriente (Línea H)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5399371365802,6.2333620125356,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">44</SimpleData>
+		<SimpleData name="linea">J</SimpleData>
+		<SimpleData name="nombre">Estación San Javier (Línea J)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6134116417339,6.25672017040803,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">45</SimpleData>
+		<SimpleData name="linea">P</SimpleData>
+		<SimpleData name="nombre">Estación El Progreso (Línea P)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5823335872499,6.30599901971645,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">46</SimpleData>
+		<SimpleData name="linea">P</SimpleData>
+		<SimpleData name="nombre">Estación Doce de Octubre (Línea P)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5759472141635,6.30424822999306,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">47</SimpleData>
+		<SimpleData name="linea">P</SimpleData>
+		<SimpleData name="nombre">Estación Sena-Pedregal (Línea P)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5673188985545,6.3018826721482,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">48</SimpleData>
+		<SimpleData name="linea">P</SimpleData>
+		<SimpleData name="nombre">Estación Acevedo (Línea P)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Cable</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5588079738884,6.29954912795052,50</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">49</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación Alejandro Echavarría (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5417391336839,6.235509448773,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">50</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación Bicentenario (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5587626628655,6.24395102006647,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">51</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación Loyola (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5451756477865,6.23902804192344,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">52</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación Oriente (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5401397381178,6.23315021150395,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">53</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación Pabellón del Agua (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5619932849016,6.24558862493685,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">54</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación San José (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5653862127465,6.24732916927992,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">55</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación Buenos Aires (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5538999995876,6.24139922685279,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">56</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación Miraflores (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5490033907717,6.24138787426225,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">57</SimpleData>
+		<SimpleData name="linea">T</SimpleData>
+		<SimpleData name="nombre">Estación San Antonio (Línea T)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Tranvía</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5691571507647,6.24699781087874,35</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">58</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Estación Universidad de Medellín (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6092248969268,6.2306668818317,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">59</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Los Alpes (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6051687339245,6.23109274155316,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">60</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada La Palma (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6010278759605,6.23117775146433,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">61</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Parque Belén (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5967500069493,6.23139602670513,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">62</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Rosales (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.590970014646,6.23159618898699,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">63</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Fátima (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.586564113249,6.23174271629464,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">64</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Nutibara (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5820581601905,6.23186520292284,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">65</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Plaza Mayor (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.575400728552,6.24366185672786,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">66</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Cisneros (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5750356181862,6.25085315606525,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">67</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Minorista (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5731452286551,6.25609136852109,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">68</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Chagualo (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5691426142268,6.26071063593293,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">69</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Ruta N (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5675800630621,6.26393106724812,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">70</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada San Pedro (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5601699564031,6.2634863688281,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">71</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Palos Verdes (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5559231340665,6.26211308484593,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">72</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Gardel (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5550441307643,6.26766778110658,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">73</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Manrique (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5540786933622,6.27325743471826,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">74</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Las Esmeraldas (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5531680217513,6.27839345002257,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">75</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Berlin (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5529379919532,6.28293199998718,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">76</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Parque Aranjuez (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5566589881332,6.28520013148265,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">77</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Paradero Barrio Colombia (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5709859589865,6.22862438957243,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">78</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Paradero Barrio Colombia (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5698289154258,6.22905763079973,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">79</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Perpetuo Socorro (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5700422527294,6.23408877202408,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">80</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Colón (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5697817511784,6.24060955371316,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">81</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada San José (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5660917935881,6.24708022320731,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">82</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada La Playa (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5643944484184,6.24959091359087,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">83</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Catedral Metropolitana (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5624737614077,6.25296478210515,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">84</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Paradero Prado (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5595881346616,6.25879724909273,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">85</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Paradero Prado (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5603729217584,6.25897034151252,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">86</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Paradero Palos Verdes (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5564025900864,6.26325595923263,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">87</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Berlin (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.552870231133,6.28292594063446,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">88</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Las Esmeraldas (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5531259752062,6.27838681467882,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">89</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Manrique (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5540235502785,6.27324829730172,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">90</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Gardel (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.554990729514,6.26766326458667,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">91</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Palos Verdes (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5558172173046,6.26207271254905,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">92</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada San Pedro (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5601864647431,6.26338872441304,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">93</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Estación Hospital (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5632445734137,6.26399636437344,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">94</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Estación Hospital (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5633030968578,6.26385064975301,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">95</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Ruta N (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5676779282241,6.26394673141534,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">96</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Chagualo (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5692018778827,6.2607406714574,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">97</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Minorista (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5732230146739,6.25616009739987,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">98</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Cisneros (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5751305871797,6.25085823173253,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">99</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Plaza Mayor (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5753043348304,6.2436591179373,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">100</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Estación Industriales (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5767583874751,6.23048088678758,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">101</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Nutibara (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5820552748019,6.23173679387137,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">102</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Fátima (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.586562004903,6.2316142134474,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">103</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Rosales (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5909682269986,6.23153956427967,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">104</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Parque Belén (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5967473173934,6.23133031204966,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">105</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada La Palma (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6010240527306,6.2311097131742,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">106</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Los Alpes (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6051663794401,6.23102311548321,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">107</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Perpetuo Socorro (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5701855600683,6.2340834390094,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">108</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Colón (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5699022143597,6.24064819794132,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">109</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada San José (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5662164528001,6.24716041914441,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">110</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada La Playa (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5645498336063,6.24966320540762,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">111</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Catedral Metropolitana (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5625984475691,6.25303817538158,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">112</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Industriales (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5765009985867,6.23049307457794,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">113</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Palos Verdes (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5558172173046,6.26207271254905,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">114</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Parada Parque Aranjuez (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5566589881332,6.28520013148265,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">115</SimpleData>
+		<SimpleData name="linea">1</SimpleData>
+		<SimpleData name="nombre">Estación Universidad de Medellín (Línea 1)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6092248969268,6.2306668818317,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">116</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Caribe Buses CR 64</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5703619307996,6.27751343000984,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">117</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Cementerio Universal</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5740298724789,6.27535652623054,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">118</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Cordoba Tranversal 78</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.578337376013,6.27377406593486,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">119</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Pilarica CL 73 x CR 72A</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5825966382196,6.2736253466389,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">120</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Ciudadela Universitaria</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5875260328484,6.27313026183181,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">121</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Facultad de Minas</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5937884366291,6.27214974971874,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">122</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio los Colores AV 80 x CL 54</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5952468353232,6.27010873739916,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">123</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Calazans</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5963466705733,6.26519826667385,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">124</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Integracion Estación Floresta</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5979370075281,6.25812834677807,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">125</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Los Pinos</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5988131595775,6.2546947916746,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">126</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Laureles</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6026251721638,6.2463206530308,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">127</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada  Santa Gema</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6029836960819,6.24003263411621,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">128</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Nueva Villa de Aburrá</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6022850412511,6.23491938572193,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">129</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Integracion La Palma</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6022176846728,6.23282905297282,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">130</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Integracion La Palma</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6021005964621,6.23243079122413,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">131</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Caribe Buses CR 64</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5703619307996,6.27751343000984,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">132</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada  Nueva Villa de Aburrá</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.602180098263,6.23537037550348,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">133</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Santa Gema</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6028934019211,6.23972952720006,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">134</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Laureles</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6025171245981,6.24630977561353,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">135</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Los Pinos</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5985323543046,6.25503180839929,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">136</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Integracion Barrio Floresta</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5975699855474,6.2592106791453,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">137</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Calazans</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5964085635981,6.2644658230057,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">138</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio los colores AV 80 x CL 54</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.595186553876,6.26990546544948,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">139</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Facultad de Minas</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5921501314347,6.27378508386397,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">140</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Ciudadela Universitaria</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5885818192086,6.27302466315668,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">141</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Pilarica CL 73 x CR 72A</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5827614467349,6.2735522080646,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">142</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Barrio Cordoba CR 67 x CL 78A</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5782504738907,6.27411147930471,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">143</SimpleData>
+		<SimpleData name="linea">O</SimpleData>
+		<SimpleData name="nombre">Parada Cementerio Universal CR 65</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Paradero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5731677350463,6.27684981283753,30</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">144</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Parque Aranjuez (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5566589881332,6.28520013148265,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">145</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Berlin (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5529379919532,6.28293199998718,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">146</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Berlin (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.552870231133,6.28292594063446,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">147</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Las Esmeraldas (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5531680217513,6.27839345002257,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">148</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Las Esmeraldas (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5531259752062,6.27838681467882,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">149</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Manrique (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5540786933622,6.27325743471826,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">150</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Manrique (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5540235502785,6.27324829730172,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">151</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Gardel (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5550441307643,6.26766778110658,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">152</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Gardel (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.554990729514,6.26766326458667,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">153</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Nutibara (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5820552748019,6.23173679387137,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">154</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Nutibara (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5820581601905,6.23186520292284,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">155</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Fátima (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.586562004903,6.2316142134474,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">156</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Fátima (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.586564113249,6.23174271629464,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">157</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Rosales (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5909682269986,6.23153956427967,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">158</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Rosales (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.590970014646,6.23159618898699,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">159</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Parque Belén (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5967473173934,6.23133031204966,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">160</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Parque Belén (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5967500069493,6.23139602670513,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">161</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada La Palma (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6010240527306,6.2311097131742,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">162</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada La Palma (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6010278759605,6.23117775146433,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">163</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Los Alpes (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6051663794401,6.23102311548321,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">164</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Los Alpes (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6051687339245,6.23109274155316,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">165</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Estación Universidad de Medellín (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6092248969268,6.2306668818317,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">166</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Parada Parque Aranjuez (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Parada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5566589881332,6.28520013148265,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Estaciones_Sistema_Metro">
+		<SimpleData name="objectid">167</SimpleData>
+		<SimpleData name="linea">2</SimpleData>
+		<SimpleData name="nombre">Estación Universidad de Medellín (Línea 2)</SimpleData>
+		<SimpleData name="codigo_mpio">05001</SimpleData>
+		<SimpleData name="municipio">Medellín</SimpleData>
+		<SimpleData name="sistema">Metroplus</SimpleData>
+		<SimpleData name="tipo">Estación</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6092248969268,6.2306668818317,32</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
